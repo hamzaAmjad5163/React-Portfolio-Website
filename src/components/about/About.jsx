@@ -27,7 +27,7 @@ const About = () => {
             <article className='about__card'>
               <HiOutlineUsers className='about__icon'/>
               <h5>Followers</h5>
-              <small>43+</small>
+              <small>42+</small>
             </article>
 
             <article className='about__card'>
