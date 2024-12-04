@@ -21,7 +21,7 @@ const About = () => {
             <article className='about__card'>
               <BsAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>1+ Year</small>
+              <small>3+ Year</small>
             </article>
 
             <article className='about__card'>
