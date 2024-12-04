@@ -14,12 +14,21 @@ const Portfolio = () => {
       <div className='container portfolio__container'>
         <article className='portfolio_item'>
           <div className='portfolio_item-image'>
+           <img src='https://github.com/user-attachments/assets/b145d3af-d6ba-4d0b-9ee8-d827d411eb85' alt=''></img>
+          </div>
+          <h3>Properties DHA360.pk</h3>
+            <div className='portfolio__item-cta'>
+            <a href='https://github.com/hamzaAmjad5163?tab=repositories' className='btn' target='_blank'>Github</a>
+            
+            </div>
+        </article>
+        <article className='portfolio_item'>
+          <div className='portfolio_item-image'>
            <img src={IMG1} alt=''></img>
           </div>
           <h3>A tea brand e-commerce website</h3>
             <div className='portfolio__item-cta'>
             <a href='https://github.com/hamzaAmjad5163?tab=repositories' className='btn' target='_blank'>Github</a>
-            <a href='https://dribbble.com/search/uxdesign' className='btn btn-primary' target='_blank'>Demo</a>
             
             </div>
         </article>
@@ -31,7 +40,6 @@ const Portfolio = () => {
           <h3>Grow Skill course Website</h3>
           <div className='portfolio__item-cta'>
             <a href='https://github.com/hamzaAmjad5163?tab=repositories' className='btn' target='_blank'>Github</a>
-            <a href='https://dribbble.com/search/uxdesign' className='btn btn-primary' target='_blank'>Demo</a>
             
             </div>
         </article>
@@ -43,7 +51,6 @@ const Portfolio = () => {
           <h3>Foodelt</h3>
           <div className='portfolio__item-cta'>
             <a href='https://github.com/hamzaAmjad5163?tab=repositories' className='btn' target='_blank'>Github</a>
-            <a href='https://dribbble.com/search/uxdesign' className='btn btn-primary' target='_blank'>Demo</a>
             
             </div>
         </article>
@@ -55,7 +62,6 @@ const Portfolio = () => {
           <h3>Financial service mobile dashboard</h3>
           <div className='portfolio__item-cta'>
             <a href='https://github.com/hamzaAmjad5163?tab=repositories' className='btn' target='_blank'>Github</a>
-            <a href='https://dribbble.com/search/uxdesign' className='btn btn-primary' target='_blank'>Demo</a>
             
             </div>
         </article>
@@ -67,7 +73,6 @@ const Portfolio = () => {
           <h3>Plant e-commerce website</h3>
           <div className='portfolio__item-cta'>
             <a href='https://github.com/hamzaAmjad5163?tab=repositories' className='btn' target='_blank'>Github</a>
-            <a href='https://dribbble.com/search/uxdesign' className='btn btn-primary' target='_blank'>Demo</a>
             
             </div>
         </article>
